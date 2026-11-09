@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<!-- LinkedIn & Email Buttons -->
+<!-- SOCIAL BUTTONS -->
 
 <a href="https://www.linkedin.com/in/gaurav-kaushik-178078271/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -29,29 +29,107 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 💫 About Me
 
-```bash
-> whoami
-Gaurav Kaushik
+<div align="center">
 
-> education
-B.Tech CSE | IIMT University, Meerut
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-> role
-Full Stack Developer | MERN Stack Developer | Java Developer
+<img src="https://img.shields.io/badge/01-WHO%20AM%20I-00D9FF?style=for-the-badge&labelColor=050505" />
 
-> currently_learning
-Next.js, Spring Boot, System Design
+<br/><br/>
 
-> current_focus
-Building scalable MERN and Java Full Stack applications
+### 👨‍💻 Gaurav Kaushik
 
-> fun_fact
+Full Stack Developer passionate about building modern web applications.
+
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-EDUCATION-00FF99?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+### 🎓 B.Tech CSE
+
+IIMT University, Meerut
+
+<br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-MY%20ROLE-00D9FF?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+### 🚀 Full Stack Developer
+
+MERN Stack | Java Developer
+
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/04-LEARNING-00FF99?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+### 📚 Currently Learning
+
+Next.js | Spring Boot | System Design
+
+<br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/05-CURRENT%20FOCUS-00D9FF?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+### 🎯 Building Scalable Apps
+
+MERN & Java Full Stack Applications
+
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/06-FUN%20FACT-00FF99?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+### 💡 Creative Builder
+
 I love turning ideas into working projects!
-```
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### ✨ A Little More About Me
 
 - 🎓 B.Tech Computer Science student
 - 💻 Passionate about Full Stack Development
@@ -123,7 +201,7 @@ I love turning ideas into working projects!
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 QuizNova
 
@@ -140,7 +218,8 @@ A modern full-stack quiz platform.
 </a>
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📝 Form Builder
 
@@ -160,7 +239,7 @@ Create and manage dynamic forms.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📋 TaskFlow
 
@@ -177,7 +256,8 @@ Mini project management system.
 </a>
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🌐 HTML Logo Gallery
 
