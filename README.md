@@ -11,6 +11,18 @@
 
 <br/><br/>
 
+<!-- LinkedIn & Email Buttons -->
+
+<a href="https://www.linkedin.com/in/gaurav-kaushik-178078271/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gauravkaushik882@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=gaurav908408&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" />
 
 </div>
@@ -224,16 +236,16 @@ A responsive logo gallery website.
 
 <div align="center">
 
-<a href="https://github.com/gaurav908408">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF" />
+<a href="https://github.com/gaurav908408" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+<a href="https://www.linkedin.com/in/gaurav-kaushik-178078271/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:gauravkaushik882@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
