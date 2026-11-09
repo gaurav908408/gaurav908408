@@ -1,11 +1,6 @@
+# 👋 Hi, I'm Gaurav Kaushik
 
-<!-- ==================== PROFILE HEADER ==================== -->
-
-<h1 align="center">Hi 👋, I'm Gaurav Kaushik</h1>
-
-<h3 align="center">
-  🚀 MERN Stack Developer | Java Full Stack Developer
-</h3>
+<h3 align="center">🚀 MERN Stack Developer | Java Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7A5&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Java+Full+Stack+Developer;React.js+%7C+Next.js+Developer;Spring+Boot+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -16,6 +11,8 @@
   <img src="https://img.shields.io/badge/Passion-Problem%20Solving-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-System%20Design-blue?style=for-the-badge" />
 </p>
+
+<!-- ==================== PROFILE VISITOR COUNTER ==================== -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaurav908408&label=Profile%20Views&color=00C896&style=for-the-badge" />
@@ -105,13 +102,23 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=gaurav908408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- ==================== JAVA DEVELOPER QUOTES ==================== -->
+
+## ☕ Java Developer Quotes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-WRITE%20ONCE%2C%20RUN%20ANYWHERE-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+</p>
+
+<p align="center">
+  <i>"Great developers are not born, they are built through practice."</i>
+</p>
+
 <!-- ==================== RANDOM DEVELOPER QUOTE ==================== -->
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ==================== TOP CONTRIBUTED REPOSITORIES ==================== -->
 
 ### 🔝 Top Contributed Repo
 
@@ -121,7 +128,5 @@
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=gaurav908408&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
+
