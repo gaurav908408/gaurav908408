@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Gaurav Kaushik
 
 <h3 align="center">🚀 MERN Stack Developer | Java Full Stack Developer</h3>
@@ -88,45 +89,60 @@
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Statistics</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=gaurav908408&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=gaurav908408&theme=merko&hide_border=false)
+  <img width="49%"
+    src="https://github-readme-stats.shion.dev/api?username=gaurav908408&theme=merko&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats" />
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gaurav908408&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img width="49%"
+    src="https://streak-stats.demolab.com/?user=gaurav908408&theme=merko&hide_border=true"
+    alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <img width="55%"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaurav908408&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Languages" />
+
+</div>
 
 <!-- ==================== GITHUB TROPHIES ==================== -->
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=gaurav908408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav908408&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 <!-- ==================== JAVA DEVELOPER QUOTES ==================== -->
 
-## ☕ Java Developer Quotes
+<h2 align="center">☕ Java Developer Quotes</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-WRITE%20ONCE%2C%20RUN%20ANYWHERE-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
 </p>
 
 <p align="center">
   <i>"Great developers are not born, they are built through practice."</i>
 </p>
 
-<!-- ==================== RANDOM DEVELOPER QUOTE ==================== -->
+<!-- ==================== TOP CONTRIBUTED REPOSITORY ==================== -->
 
+<h2 align="center">🔝 Top Contributed Repository</h2>
 
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=gaurav908408&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=gaurav908408&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
 
 <!-- ==================== PROFILE VISITOR COUNTER ==================== -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaurav908408&label=Thanks%20for%20visiting&color=00C896&style=for-the-badge" />
+</p>
+
 ---
-
-
-
